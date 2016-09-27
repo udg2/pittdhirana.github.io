@@ -798,9 +798,8 @@ ul.faq li>div h3 {
     position: relative;
 }
 .text {
-    color: #fff;
     font-size: 1.35em;
-    font-family: 'Roboto Slab';
+    font-family: 'Lato';
     line-height: 1.7em;
 }
 .addmargin {
@@ -954,4 +953,17 @@ img.grayscale:hover {
 }
 .hotel:hover {
     text-decoration: underline;
+}
+.years {
+    display: inline-block;
+    text-align: center;
+    width: 24%;
+}
+
+@media only screen and (max-width: 1000px) {
+    .years {
+        display: inline-block;
+        text-align: center;
+        width: 40%;
+    }
 }
