@@ -975,3 +975,20 @@ img.grayscale:hover {
     font-weight: 300;
     margin: 25px 15px 0 15px;
 }
+
+.card-block {
+    background-color: #fff;
+    border: 1px #d3d3d3 solid;
+    font-family: 'Lato', sans-serif;
+    border-radius: 7px;
+    width: 300px;
+    padding: 20px;
+    font-size: 1.25em;
+    -webkit-box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.card-title {
+    font-family: 'Lato', sans-serif;
+    background-color: #0b2d42;
+}
