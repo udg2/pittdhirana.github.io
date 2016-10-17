@@ -981,14 +981,18 @@ img.grayscale:hover {
     border: 1px #d3d3d3 solid;
     font-family: 'Lato', sans-serif;
     border-radius: 7px;
-    width: 300px;
+    width: 80%;
     padding: 20px;
     font-size: 1.25em;
     -webkit-box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    display: inline-block;
 }
 
 .card-title {
     font-family: 'Lato', sans-serif;
+    color: #fff;
     background-color: #0b2d42;
+    border-radius: 7px;
+    padding: 5px 0 5px ;
 }
