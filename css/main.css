@@ -1010,3 +1010,9 @@ img.grayscale:hover {
         font-size: 4em;
     }
 }
+
+@media screen and (max-width: 300px) {
+    .dhirana_title {
+        font-size: 3em;
+    }
+}
