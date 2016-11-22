@@ -87,37 +87,41 @@
             </div>
         </header>
 
-        <div class="col-md-4 col-md-offset-4 container center">
-            <img id="logo" src="images/2017logo.png" alt="dhirana 2016 logo">
-            <div class="center shadow" style="background-color:#E7AB2F;height:90px;">
-                <h1 class="dhirana_title"><b>DHIRANA 2017</b></h1>
-            </div>
-            <br>
-            <h3 style="font-size:4.5em;line-height:1em;" align="center">02.18.2017</h3>
-            <h3 style="margin-left:5%;margin-right:5%;font-size:3em;line-height:1em;color:#E7AB2F;" align="center">Soldiers & Sailors
-                <br>Memorial Hall & Museum
-                <br>
-                <div style="color:#092638">Pittsburgh, PA</div>
-                <br>
-                <!--<a target="_blank" href="#" style="font-size:0.6em;font-family:'Roboto Slab';line-height:1.2em;">
-                    <div class="btn btn-primary" style="color:#fff;font-family:'Lato',sans-serif;font-size:0.8em;width:130px;height:55px;line-height:26px;">
-                        <b>Donate to Dhirana</b>
-                    </div>
-                </a>&nbsp;-->
+        <br/><br/><br/><br/><br/>
+        <center>
+            <div class="col-md-4 col-md-offset-4 container center">
+                <img style="display:block;" class="mySlides" src="images/Flyer2BackStretched.jpg"><!-- style="width:200%">-->
+  		        <img style="display:block;" class="mySlides" src="images/DwdInfo.jpg"><!-- style="width:200%">-->
+  		    </div>
+        </center>
+        <script>
+            var myIndex = 0;
+            carousel();
+            function carousel() {
+    	        var i;
+    	        var x = document.getElementsByClassName("mySlides");
+    	        for (i = 0; i < x.length; i++) {
+       		        x[i].style.display = "none";
+    	        }
+    	        myIndex++;
+    	        if (myIndex > x.length) {myIndex = 1}
+    	        x[myIndex-1].style.display = "block";
+    	        setTimeout(carousel, 5000); // Change image every 2 seconds
+		    }
+        </script>
+        <br>
+            <center>
                 <a target="_blank" href="Dhirana2017_SponsorshipPacket.pdf" style="font-size:0.6em;font-family:'Roboto Slab';line-height:1.2em;">
-                    <div class="btn btn-primary" style="color:#fff;font-family:'Lato',sans-serif;font-size:0.8em;width:130px;height:75px;line-height:18px;">
+                    <div class="btn btn-primary" style="color:#fff;font-family:'Lato',sans-serif;font-size:2.0em;width:130px;height:75px;line-height:18px;">
                         <b><br>2017 Sponsorship Packet</b>
                     </div>
                 </a>
                 <a target="_blank" href="https://engage.pitt.edu/dhirana" style="font-size:0.6em;font-family:'Roboto Slab';line-height:1.2em;">
-                    <div class="btn btn-primary" style="color:#fff;font-family:'Lato',sans-serif;font-size:0.8em;width:130px;height:75px;line-height:28px;">
+                    <div class="btn btn-primary" style="color:#fff;font-family:'Lato',sans-serif;font-size:2.0em;width:130px;height:75px;line-height:28px;">
                         <b><br>Donate Online</b>
                     </div>
                 </a>
-            </h3>
-        </div>
         <br><br>
-    </div>
 
     <section id="about">
         <div class="container">
