@@ -77,32 +77,32 @@ body h3, body h4 {
 
 }
 .btn.btn-link {
-    color: #E7AB2F;
+    color: #F0AF66;
     padding: 0
 }
 .btn.btn-link:hover {
     text-decoration: none
 }
 .btn-primary {
-    background-color: #E7AB2F;
+    background-color: #F0AF66;
     -webkit-transition: background-color 1s;
     transition: background-color 1s;
 }
 .btn-primary:hover {
-    background-color: #092638;
+    background-color: #013A2A;
     color: #fff;
     -webkit-transition: background-color 1s;
     transition: background-color 1s;
 }
 a {
-    color: #092638;
+    color: #013A2A;
     -webkit-transition: 300ms;
     -moz-transition: 300ms;
     -o-transition: 300ms;
     transition: 300ms
 }
 a:hover, a:focus {
-    color: #092638;
+    color: #013A2A;
     text-decoration: none;
     outline: 0
 }
@@ -117,7 +117,7 @@ body>section#slide-show {
     padding: 0
 }
 #countdownsection {
-    background: #E7AB2F;
+    background: #F0AF66;
     color: #fff
 }
 #countdownsection .links>a {
@@ -142,10 +142,10 @@ body>section#slide-show {
     margin-bottom: 0
 }
 #sponsors .prev, #sponsors .next {
-    color: #E7AB2F
+    color: #F0AF66
 }
 .title {
-    color: #092638;
+    color: #013A2A;
     padding: 25px 0;
 }
 .center {
@@ -252,22 +252,22 @@ header.navbar .nav>li>a {
 }
 header.navbar .nav>li>a:hover {
     background: transparent;
-    color: #E7AB2F;
-    border-bottom: 5px solid #092638;
+    color: #F0AF66;
+    border-bottom: 5px solid #013A2A;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none
 }
 header.navbar .nav>li.active>a, header.navbar .nav>li.active>a:hover {
     background: transparent;
-    color: #E7AB2F;
+    color: #F0AF66;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none
 }
 header.navbar .nav>li.dropdown.open>a.dropdown-toggle {
     background: transparent;
-    color: #E7AB2F
+    color: #F0AF66
 }
 header.navbar .nav>li.login>a {
     border-left: 1px solid #e5e5e5
@@ -280,7 +280,7 @@ header .dropdown-menu:before {
 }
 .navbar .nav li.dropdown.open>.dropdown-toggle, .navbar .nav li.dropdown.active>.dropdown-toggle, .navbar .nav li.dropdown.open.active>.dropdown-toggle {
     background-color: transparent;
-    color: #E7AB2F
+    color: #F0AF66
 }
 .navbar .nav>.active>a, .navbar .nav>.active>a:hover, .navbar .nav>.active>a:focus {
     -webkit-box-shadow: none;
@@ -288,7 +288,7 @@ header .dropdown-menu:before {
     box-shadow: none
 }
 .navbar .nav>li>a:focus, .navbar .nav>li>a:hover {
-    color: #E7AB2F
+    color: #F0AF66
 }
 .dropdown-menu {
     -webkit-border-radius: 0;
@@ -301,7 +301,7 @@ header .dropdown-menu:before {
     border: 0
 }
 .dropdown-menu>.active>a, .dropdown-menu>.active>a:hover, .dropdown-menu>.active>a:focus, .dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus, .dropdown-submenu:hover>a, .dropdown-submenu:focus>a {
-    background: #E7AB2F
+    background: #F0AF66
 }
 .main-info {
     background-color: #fff;
@@ -316,7 +316,7 @@ header .dropdown-menu:before {
     line-height: 18px;
     text-align: center;
     display: inline-block;
-    background: #E7AB2F;
+    background: #F0AF66;
     padding: 10px;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
@@ -386,7 +386,7 @@ header .dropdown-menu:before {
     padding: 0
 }
 #about {
-    background: #092638;
+    background: #013A2A;
     color: #999
 }
 #about h1, #about h2, #about h3, #about h4, #about h5, #about h6 {
@@ -427,7 +427,7 @@ h2 {
     color: #6f6f6f
 }
 #bottom a:hover {
-    color: #E7AB2F
+    color: #F0AF66
 }
 #bottom ul.address>li {
     position: relative;
@@ -489,7 +489,7 @@ ul.rss li::before {
     color: #fff;
 }
 #footer a:hover {
-    color: #E7AB2F
+    color: #F0AF66
 }
 #footer #gototop {
     height: 40px;
@@ -523,7 +523,7 @@ ul.social>li>a {
     color: #fff
 }
 ul.social>li>a:hover {
-    color: #E7AB2F
+    color: #F0AF66
 }
 .box-border {
     padding: 15px
@@ -802,7 +802,7 @@ ul.faq li>div h3 {
     font-family: 'Lato';
     line-height: 1.7em;
     font-weight: normal;
-    color: #092638;
+    color: #013A2A;
 }
 .addmargin {
     left: 20px;
@@ -863,7 +863,7 @@ ul.faq li>div h3 {
     font-family: "Lato", sans-serif;
 }
 #count-down div {
-    background: #0b2d42;
+    background: #033c34;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
@@ -873,7 +873,7 @@ ul.faq li>div h3 {
     margin: 30px 0;
     padding: .6em .25em 0.9em;
     box-shadow: 0 30px 50px 5px rgba(0, 0, 0, .44);
-    text-shadow: 0px 0px #092638, 1px 1px #092638, 2px 2px #092638, 3px 3px #092638, 4px 4px #092638, 5px 5px #092638, 6px 6px #092638, 7px 7px #092638, 8px 8px #092638, 9px 9px #092638, 10px 10px #092638, 11px 11px #092638, 12px 12px #092638, 13px 13px #092638, 14px 14px #092638, 15px 15px #092638, 16px 16px #092638, 17px 17px #092638, 18px 18px #092638, 19px 19px #092638, 20px 20px #092638, 21px 21px #092638, 22px 22px #092638, 23px 23px #092638, 24px 24px #092638, 25px 25px #092638, 26px 26px #092638, 27px 27px #092638, 28px 28px #092638, 29px 29px #092638, 30px 30px #092638, 31px 31px #092638, 32px 32px #092638, 33px 33px #092638, 34px 34px #092638, 35px 35px #092638, 36px 36px #092638, 37px 37px #092638, 38px 38px #092638, 39px 39px #092638, 40px 40px #092638, 41px 41px #092638, 42px 42px #092638, 43px 43px #092638, 44px 44px #092638, 45px 45px #092638, 46px 46px #092638, 47px 47px #092638, 48px 48px #092638, 49px 49px #092638, 50px 50px #092638, 51px 51px #092638, 52px 52px #092638, 53px 53px #092638, 54px 54px #092638, 55px 55px #092638, 56px 56px #092638, 57px 57px #092638, 58px 58px #092638, 59px 59px #092638, 60px 60px #092638, 61px 61px #092638, 62px 62px #092638, 63px 63px #092638, 64px 64px #092638, 65px 65px #092638, 66px 66px #092638, 67px 67px #092638, 68px 68px #092638, 69px 69px #092638, 70px 70px #092638, 71px 71px #092638, 72px 72px #092638, 73px 73px #092638, 74px 74px #092638, 75px 75px #092638, 76px 76px #092638, 77px 77px #092638, 78px 78px #092638, 79px 79px #092638, 80px 80px #092638, 81px 81px #092638, 82px 82px #092638, 83px 83px #092638, 84px 84px #092638, 85px 85px #092638, 86px 86px #092638, 87px 87px #092638, 88px 88px #092638, 89px 89px #092638, 90px 90px #092638, 91px 91px #092638, 92px 92px #092638, 93px 93px #092638, 94px 94px #092638, 95px 95px #092638, 96px 96px #092638, 97px 97px #092638, 98px 98px #092638, 99px 99px #092638, 100px 100px #092638, 101px 101px #092638, 102px 102px #092638, 103px 103px #092638, 104px 104px #092638, 105px 105px #092638, 106px 106px #092638, 107px 107px #092638, 108px 108px #092638, 109px 109px #092638, 110px 110px #092638, 111px 111px #092638, 112px 112px #092638, 113px 113px #092638, 114px 114px #092638, 115px 115px #092638, 116px 116px #092638, 117px 117px #092638, 118px 118px #092638, 119px 119px #092638, 120px 120px #092638, 121px 121px #092638, 122px 122px #092638, 123px 123px #092638, 124px 124px #092638, 125px 125px #092638, 126px 126px #092638, 127px 127px #092638, 128px 128px #092638, 129px 129px #092638, 130px 130px #092638, 131px 131px #092638, 132px 132px #092638, 133px 133px #092638, 134px 134px #092638, 135px 135px #092638, 136px 136px #092638, 137px 137px #092638, 138px 138px #092638, 139px 139px #092638, 140px 140px #092638, 141px 141px #092638, 142px 142px #092638, 143px 143px #092638, 144px 144px #092638, 145px 145px #092638, 146px 146px #092638, 147px 147px #092638, 148px 148px #092638, 149px 149px #092638, 150px 150px #092638, 151px 151px #092638, 152px 152px #092638, 153px 153px #092638, 154px 154px #092638, 155px 155px #092638, 156px 156px #092638, 157px 157px #092638, 158px 158px #092638, 159px 159px #092638, 160px 160px #092638, 161px 161px #092638, 162px 162px #092638, 163px 163px #092638, 164px 164px #092638, 165px 165px #092638, 166px 166px #092638, 167px 167px #092638, 168px 168px #092638, 169px 169px #092638, 170px 170px #092638, 171px 171px #092638, 172px 172px #092638, 173px 173px #092638, 174px 174px #092638, 175px 175px #092638, 176px 176px #092638, 177px 177px #092638, 178px 178px #092638, 179px 179px #092638, 180px 180px #092638, 181px 181px #092638, 182px 182px #092638, 183px 183px #092638, 184px 184px #092638, 185px 185px #092638, 186px 186px #092638, 187px 187px #092638, 188px 188px #092638, 189px 189px #092638, 190px 190px #092638, 191px 191px #092638, 192px 192px #092638, 193px 193px #092638, 194px 194px #092638, 195px 195px #092638, 196px 196px #092638, 197px 197px #092638, 198px 198px #092638, 199px 199px #092638, 200px 200px #092638;
+    text-shadow: 0px 0px #013A2A, 1px 1px #013A2A, 2px 2px #013A2A, 3px 3px #013A2A, 4px 4px #013A2A, 5px 5px #013A2A, 6px 6px #013A2A, 7px 7px #013A2A, 8px 8px #013A2A, 9px 9px #013A2A, 10px 10px #013A2A, 11px 11px #013A2A, 12px 12px #013A2A, 13px 13px #013A2A, 14px 14px #013A2A, 15px 15px #013A2A, 16px 16px #013A2A, 17px 17px #013A2A, 18px 18px #013A2A, 19px 19px #013A2A, 20px 20px #013A2A, 21px 21px #013A2A, 22px 22px #013A2A, 23px 23px #013A2A, 24px 24px #013A2A, 25px 25px #013A2A, 26px 26px #013A2A, 27px 27px #013A2A, 28px 28px #013A2A, 29px 29px #013A2A, 30px 30px #013A2A, 31px 31px #013A2A, 32px 32px #013A2A, 33px 33px #013A2A, 34px 34px #013A2A, 35px 35px #013A2A, 36px 36px #013A2A, 37px 37px #013A2A, 38px 38px #013A2A, 39px 39px #013A2A, 40px 40px #013A2A, 41px 41px #013A2A, 42px 42px #013A2A, 43px 43px #013A2A, 44px 44px #013A2A, 45px 45px #013A2A, 46px 46px #013A2A, 47px 47px #013A2A, 48px 48px #013A2A, 49px 49px #013A2A, 50px 50px #013A2A, 51px 51px #013A2A, 52px 52px #013A2A, 53px 53px #013A2A, 54px 54px #013A2A, 55px 55px #013A2A, 56px 56px #013A2A, 57px 57px #013A2A, 58px 58px #013A2A, 59px 59px #013A2A, 60px 60px #013A2A, 61px 61px #013A2A, 62px 62px #013A2A, 63px 63px #013A2A, 64px 64px #013A2A, 65px 65px #013A2A, 66px 66px #013A2A, 67px 67px #013A2A, 68px 68px #013A2A, 69px 69px #013A2A, 70px 70px #013A2A, 71px 71px #013A2A, 72px 72px #013A2A, 73px 73px #013A2A, 74px 74px #013A2A, 75px 75px #013A2A, 76px 76px #013A2A, 77px 77px #013A2A, 78px 78px #013A2A, 79px 79px #013A2A, 80px 80px #013A2A, 81px 81px #013A2A, 82px 82px #013A2A, 83px 83px #013A2A, 84px 84px #013A2A, 85px 85px #013A2A, 86px 86px #013A2A, 87px 87px #013A2A, 88px 88px #013A2A, 89px 89px #013A2A, 90px 90px #013A2A, 91px 91px #013A2A, 92px 92px #013A2A, 93px 93px #013A2A, 94px 94px #013A2A, 95px 95px #013A2A, 96px 96px #013A2A, 97px 97px #013A2A, 98px 98px #013A2A, 99px 99px #013A2A, 100px 100px #013A2A, 101px 101px #013A2A, 102px 102px #013A2A, 103px 103px #013A2A, 104px 104px #013A2A, 105px 105px #013A2A, 106px 106px #013A2A, 107px 107px #013A2A, 108px 108px #013A2A, 109px 109px #013A2A, 110px 110px #013A2A, 111px 111px #013A2A, 112px 112px #013A2A, 113px 113px #013A2A, 114px 114px #013A2A, 115px 115px #013A2A, 116px 116px #013A2A, 117px 117px #013A2A, 118px 118px #013A2A, 119px 119px #013A2A, 120px 120px #013A2A, 121px 121px #013A2A, 122px 122px #013A2A, 123px 123px #013A2A, 124px 124px #013A2A, 125px 125px #013A2A, 126px 126px #013A2A, 127px 127px #013A2A, 128px 128px #013A2A, 129px 129px #013A2A, 130px 130px #013A2A, 131px 131px #013A2A, 132px 132px #013A2A, 133px 133px #013A2A, 134px 134px #013A2A, 135px 135px #013A2A, 136px 136px #013A2A, 137px 137px #013A2A, 138px 138px #013A2A, 139px 139px #013A2A, 140px 140px #013A2A, 141px 141px #013A2A, 142px 142px #013A2A, 143px 143px #013A2A, 144px 144px #013A2A, 145px 145px #013A2A, 146px 146px #013A2A, 147px 147px #013A2A, 148px 148px #013A2A, 149px 149px #013A2A, 150px 150px #013A2A, 151px 151px #013A2A, 152px 152px #013A2A, 153px 153px #013A2A, 154px 154px #013A2A, 155px 155px #013A2A, 156px 156px #013A2A, 157px 157px #013A2A, 158px 158px #013A2A, 159px 159px #013A2A, 160px 160px #013A2A, 161px 161px #013A2A, 162px 162px #013A2A, 163px 163px #013A2A, 164px 164px #013A2A, 165px 165px #013A2A, 166px 166px #013A2A, 167px 167px #013A2A, 168px 168px #013A2A, 169px 169px #013A2A, 170px 170px #013A2A, 171px 171px #013A2A, 172px 172px #013A2A, 173px 173px #013A2A, 174px 174px #013A2A, 175px 175px #013A2A, 176px 176px #013A2A, 177px 177px #013A2A, 178px 178px #013A2A, 179px 179px #013A2A, 180px 180px #013A2A, 181px 181px #013A2A, 182px 182px #013A2A, 183px 183px #013A2A, 184px 184px #013A2A, 185px 185px #013A2A, 186px 186px #013A2A, 187px 187px #013A2A, 188px 188px #013A2A, 189px 189px #013A2A, 190px 190px #013A2A, 191px 191px #013A2A, 192px 192px #013A2A, 193px 193px #013A2A, 194px 194px #013A2A, 195px 195px #013A2A, 196px 196px #013A2A, 197px 197px #013A2A, 198px 198px #013A2A, 199px 199px #013A2A, 200px 200px #013A2A;
 }
 #count-down div:after {
     bottom: .5em;
@@ -883,7 +883,7 @@ ul.faq li>div h3 {
     margin-left: -2em;
     position: absolute;
     width: 4em;
-    text-shadow: 0px 0px #092638, 1px 1px #092638, 2px 2px #092638, 3px 3px #092638, 4px 4px #092638, 5px 5px #092638, 6px 6px #092638, 7px 7px #092638, 8px 8px #092638, 9px 9px #092638, 10px 10px #092638, 11px 11px #092638, 12px 12px #092638, 13px 13px #092638, 14px 14px #092638, 15px 15px #092638, 16px 16px #092638, 17px 17px #092638, 18px 18px #092638, 19px 19px #092638, 20px 20px #092638, 21px 21px #092638, 22px 22px #092638, 23px 23px #092638, 24px 24px #092638, 25px 25px #092638, 26px 26px #092638, 27px 27px #092638, 28px 28px #092638, 29px 29px #092638, 30px 30px #092638, 31px 31px #092638, 32px 32px #092638, 33px 33px #092638, 34px 34px #092638, 35px 35px #092638, 36px 36px #092638, 37px 37px #092638, 38px 38px #092638, 39px 39px #092638, 40px 40px #092638, 41px 41px #092638, 42px 42px #092638, 43px 43px #092638, 44px 44px #092638, 45px 45px #092638, 46px 46px #092638, 47px 47px #092638, 48px 48px #092638, 49px 49px #092638, 50px 50px #092638, 51px 51px #092638, 52px 52px #092638, 53px 53px #092638, 54px 54px #092638, 55px 55px #092638, 56px 56px #092638, 57px 57px #092638, 58px 58px #092638, 59px 59px #092638, 60px 60px #092638, 61px 61px #092638, 62px 62px #092638, 63px 63px #092638, 64px 64px #092638, 65px 65px #092638, 66px 66px #092638, 67px 67px #092638, 68px 68px #092638, 69px 69px #092638, 70px 70px #092638, 71px 71px #092638, 72px 72px #092638, 73px 73px #092638, 74px 74px #092638, 75px 75px #092638, 76px 76px #092638, 77px 77px #092638, 78px 78px #092638, 79px 79px #092638, 80px 80px #092638, 81px 81px #092638, 82px 82px #092638, 83px 83px #092638, 84px 84px #092638, 85px 85px #092638, 86px 86px #092638, 87px 87px #092638, 88px 88px #092638, 89px 89px #092638, 90px 90px #092638, 91px 91px #092638, 92px 92px #092638, 93px 93px #092638, 94px 94px #092638, 95px 95px #092638, 96px 96px #092638, 97px 97px #092638, 98px 98px #092638, 99px 99px #092638, 100px 100px #092638, 101px 101px #092638, 102px 102px #092638, 103px 103px #092638, 104px 104px #092638, 105px 105px #092638, 106px 106px #092638, 107px 107px #092638, 108px 108px #092638, 109px 109px #092638, 110px 110px #092638, 111px 111px #092638, 112px 112px #092638, 113px 113px #092638, 114px 114px #092638, 115px 115px #092638, 116px 116px #092638, 117px 117px #092638, 118px 118px #092638, 119px 119px #092638, 120px 120px #092638, 121px 121px #092638, 122px 122px #092638, 123px 123px #092638, 124px 124px #092638, 125px 125px #092638, 126px 126px #092638, 127px 127px #092638, 128px 128px #092638, 129px 129px #092638, 130px 130px #092638, 131px 131px #092638, 132px 132px #092638, 133px 133px #092638, 134px 134px #092638, 135px 135px #092638, 136px 136px #092638, 137px 137px #092638, 138px 138px #092638, 139px 139px #092638, 140px 140px #092638, 141px 141px #092638, 142px 142px #092638, 143px 143px #092638, 144px 144px #092638, 145px 145px #092638, 146px 146px #092638, 147px 147px #092638, 148px 148px #092638, 149px 149px #092638, 150px 150px #092638, 151px 151px #092638, 152px 152px #092638, 153px 153px #092638, 154px 154px #092638, 155px 155px #092638, 156px 156px #092638, 157px 157px #092638, 158px 158px #092638, 159px 159px #092638, 160px 160px #092638, 161px 161px #092638, 162px 162px #092638, 163px 163px #092638, 164px 164px #092638, 165px 165px #092638, 166px 166px #092638, 167px 167px #092638, 168px 168px #092638, 169px 169px #092638, 170px 170px #092638, 171px 171px #092638, 172px 172px #092638, 173px 173px #092638, 174px 174px #092638, 175px 175px #092638, 176px 176px #092638, 177px 177px #092638, 178px 178px #092638, 179px 179px #092638, 180px 180px #092638, 181px 181px #092638, 182px 182px #092638, 183px 183px #092638, 184px 184px #092638, 185px 185px #092638, 186px 186px #092638, 187px 187px #092638, 188px 188px #092638, 189px 189px #092638, 190px 190px #092638, 191px 191px #092638, 192px 192px #092638, 193px 193px #092638, 194px 194px #092638, 195px 195px #092638, 196px 196px #092638, 197px 197px #092638, 198px 198px #092638, 199px 199px #092638, 200px 200px #092638;
+    text-shadow: 0px 0px #013A2A, 1px 1px #013A2A, 2px 2px #013A2A, 3px 3px #013A2A, 4px 4px #013A2A, 5px 5px #013A2A, 6px 6px #013A2A, 7px 7px #013A2A, 8px 8px #013A2A, 9px 9px #013A2A, 10px 10px #013A2A, 11px 11px #013A2A, 12px 12px #013A2A, 13px 13px #013A2A, 14px 14px #013A2A, 15px 15px #013A2A, 16px 16px #013A2A, 17px 17px #013A2A, 18px 18px #013A2A, 19px 19px #013A2A, 20px 20px #013A2A, 21px 21px #013A2A, 22px 22px #013A2A, 23px 23px #013A2A, 24px 24px #013A2A, 25px 25px #013A2A, 26px 26px #013A2A, 27px 27px #013A2A, 28px 28px #013A2A, 29px 29px #013A2A, 30px 30px #013A2A, 31px 31px #013A2A, 32px 32px #013A2A, 33px 33px #013A2A, 34px 34px #013A2A, 35px 35px #013A2A, 36px 36px #013A2A, 37px 37px #013A2A, 38px 38px #013A2A, 39px 39px #013A2A, 40px 40px #013A2A, 41px 41px #013A2A, 42px 42px #013A2A, 43px 43px #013A2A, 44px 44px #013A2A, 45px 45px #013A2A, 46px 46px #013A2A, 47px 47px #013A2A, 48px 48px #013A2A, 49px 49px #013A2A, 50px 50px #013A2A, 51px 51px #013A2A, 52px 52px #013A2A, 53px 53px #013A2A, 54px 54px #013A2A, 55px 55px #013A2A, 56px 56px #013A2A, 57px 57px #013A2A, 58px 58px #013A2A, 59px 59px #013A2A, 60px 60px #013A2A, 61px 61px #013A2A, 62px 62px #013A2A, 63px 63px #013A2A, 64px 64px #013A2A, 65px 65px #013A2A, 66px 66px #013A2A, 67px 67px #013A2A, 68px 68px #013A2A, 69px 69px #013A2A, 70px 70px #013A2A, 71px 71px #013A2A, 72px 72px #013A2A, 73px 73px #013A2A, 74px 74px #013A2A, 75px 75px #013A2A, 76px 76px #013A2A, 77px 77px #013A2A, 78px 78px #013A2A, 79px 79px #013A2A, 80px 80px #013A2A, 81px 81px #013A2A, 82px 82px #013A2A, 83px 83px #013A2A, 84px 84px #013A2A, 85px 85px #013A2A, 86px 86px #013A2A, 87px 87px #013A2A, 88px 88px #013A2A, 89px 89px #013A2A, 90px 90px #013A2A, 91px 91px #013A2A, 92px 92px #013A2A, 93px 93px #013A2A, 94px 94px #013A2A, 95px 95px #013A2A, 96px 96px #013A2A, 97px 97px #013A2A, 98px 98px #013A2A, 99px 99px #013A2A, 100px 100px #013A2A, 101px 101px #013A2A, 102px 102px #013A2A, 103px 103px #013A2A, 104px 104px #013A2A, 105px 105px #013A2A, 106px 106px #013A2A, 107px 107px #013A2A, 108px 108px #013A2A, 109px 109px #013A2A, 110px 110px #013A2A, 111px 111px #013A2A, 112px 112px #013A2A, 113px 113px #013A2A, 114px 114px #013A2A, 115px 115px #013A2A, 116px 116px #013A2A, 117px 117px #013A2A, 118px 118px #013A2A, 119px 119px #013A2A, 120px 120px #013A2A, 121px 121px #013A2A, 122px 122px #013A2A, 123px 123px #013A2A, 124px 124px #013A2A, 125px 125px #013A2A, 126px 126px #013A2A, 127px 127px #013A2A, 128px 128px #013A2A, 129px 129px #013A2A, 130px 130px #013A2A, 131px 131px #013A2A, 132px 132px #013A2A, 133px 133px #013A2A, 134px 134px #013A2A, 135px 135px #013A2A, 136px 136px #013A2A, 137px 137px #013A2A, 138px 138px #013A2A, 139px 139px #013A2A, 140px 140px #013A2A, 141px 141px #013A2A, 142px 142px #013A2A, 143px 143px #013A2A, 144px 144px #013A2A, 145px 145px #013A2A, 146px 146px #013A2A, 147px 147px #013A2A, 148px 148px #013A2A, 149px 149px #013A2A, 150px 150px #013A2A, 151px 151px #013A2A, 152px 152px #013A2A, 153px 153px #013A2A, 154px 154px #013A2A, 155px 155px #013A2A, 156px 156px #013A2A, 157px 157px #013A2A, 158px 158px #013A2A, 159px 159px #013A2A, 160px 160px #013A2A, 161px 161px #013A2A, 162px 162px #013A2A, 163px 163px #013A2A, 164px 164px #013A2A, 165px 165px #013A2A, 166px 166px #013A2A, 167px 167px #013A2A, 168px 168px #013A2A, 169px 169px #013A2A, 170px 170px #013A2A, 171px 171px #013A2A, 172px 172px #013A2A, 173px 173px #013A2A, 174px 174px #013A2A, 175px 175px #013A2A, 176px 176px #013A2A, 177px 177px #013A2A, 178px 178px #013A2A, 179px 179px #013A2A, 180px 180px #013A2A, 181px 181px #013A2A, 182px 182px #013A2A, 183px 183px #013A2A, 184px 184px #013A2A, 185px 185px #013A2A, 186px 186px #013A2A, 187px 187px #013A2A, 188px 188px #013A2A, 189px 189px #013A2A, 190px 190px #013A2A, 191px 191px #013A2A, 192px 192px #013A2A, 193px 193px #013A2A, 194px 194px #013A2A, 195px 195px #013A2A, 196px 196px #013A2A, 197px 197px #013A2A, 198px 198px #013A2A, 199px 199px #013A2A, 200px 200px #013A2A;
 }
 img.grayscale {
     -webkit-transition: all .3s ease-in-out;
@@ -933,24 +933,24 @@ img.grayscale:hover {
 .boardname {
     font-family: 'Lato', sans-serif;
     font-size: 1.3em;
-    color: #092638;
+    color: #013A2A;
     margin-left: 10%;
 }
 .boardtitle {
     margin-top: -8px;
     font-family: 'Lato', sans-serif;
     font-size: 1.2em;
-    color: #092638;
+    color: #013A2A;
     margin-left: 10%;
 }
 .nameunderline {
-    border-bottom: 2px solid #E7AB2F;
+    border-bottom: 2px solid #F0AF66;
 }
 .mylink {
     color: #fff;
 }
 .mylink:hover {
-    color: #E7AB2F;
+    color: #F0AF66;
     text-decoration: underline;
 }
 .hotel:hover {
@@ -994,7 +994,7 @@ img.grayscale:hover {
 .card-title {
     font-family: 'Lato', sans-serif;
     color: #fff;
-    background-color: #0b2d42;
+    background-color: #033c34;
     border-radius: 7px;
     padding: 5px 0 5px ;
 }
